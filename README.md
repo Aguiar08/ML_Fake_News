@@ -7,4 +7,4 @@
 
 # Primeiro Resultado
 
-> O primeiro resultado obtido: ![Fake News Detector](/notebook/fake_news_detector.ipynb)
+> O primeiro resultado obtido: ![Fake News Detector](/notebooks/fake_news_detector.ipynb)
